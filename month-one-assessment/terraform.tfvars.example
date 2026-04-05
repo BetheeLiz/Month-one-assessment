@@ -1,0 +1,5 @@
+region            = "us-east-1"
+instance_type_web = "t3.micro"
+instance_type_db  = "t3.small"
+key_name          = "Bethee-aws-key"
+my_ip             = "0.0.0.0/32"
